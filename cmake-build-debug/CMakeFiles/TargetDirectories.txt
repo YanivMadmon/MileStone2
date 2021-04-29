@@ -1,0 +1,3 @@
+/home/yanivmadmon/CLionProjects/mileStone2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yanivmadmon/CLionProjects/mileStone2/cmake-build-debug/CMakeFiles/mileStone2.dir
+/home/yanivmadmon/CLionProjects/mileStone2/cmake-build-debug/CMakeFiles/edit_cache.dir
